@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\bin\Debug\net6.0\eCommerce.Domain.deps.json
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\bin\Debug\net6.0\eCommerce.Domain.dll
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\bin\Debug\net6.0\eCommerce.Domain.pdb
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.dll
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\refint\eCommerce.Domain.dll
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\eCommerce.Domain.pdb
+C:\Users\user\Desktop\eCommerceProject\eCommerce\eCommerce.Domain\obj\Debug\net6.0\ref\eCommerce.Domain.dll

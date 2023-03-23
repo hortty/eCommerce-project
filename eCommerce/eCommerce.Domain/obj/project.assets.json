@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj",
       "projectName": "eCommerce.Domain",
-      "projectPath": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj",
+      "projectPath": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Domain\\obj\\",
+      "outputPath": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

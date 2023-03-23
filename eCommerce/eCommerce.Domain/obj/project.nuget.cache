@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKXoWV/Bqi+gu8vjzgr2VuuopkJ7KsRm5eZU0NDEz6uw9AvoMUxxacmcG3CcoFz6kGHdQNDNHS0tNzX+CNFxEA==",
+  "dgSpecHash": "Sr2Eqq9TBayw+WWUxAv72PaUNCoA07KZ4MgEDvIxqJlIE/omrNRWHWp7RBUYU2CoY7F+KmGh8GDFN9eOELJ1wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj",
+  "projectFilePath": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

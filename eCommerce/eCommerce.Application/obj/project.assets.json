@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj",
+      "projectUniqueName": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj",
       "projectName": "eCommerce.Application",
-      "projectPath": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj",
+      "projectPath": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Application\\eCommerce.Application.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Application\\obj\\",
+      "outputPath": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\eCommerceProject\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj"
+            "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj": {
+              "projectPath": "C:\\Projetos_git\\eCommerce-project\\eCommerce\\eCommerce.Domain\\eCommerce.Domain.csproj"
             }
           }
         }
